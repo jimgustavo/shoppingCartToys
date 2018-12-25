@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "I am Groot",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/1-groot.jpg",
+      "age": ["0", "+"],
+      "price": 24.99
+    },
+    {
+      "id": 2,
+      "name": "I am Buzz",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/2-buzz.jpg",
+      "age": ["0", "+"],
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "name": "I am Minion Dave",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/3-minion-dave.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 4,
+      "name": "I am Minion Kevin",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/4-minion-kevin.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 5,
+      "name": "I am Minion Bob",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/5-minion-bob.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 6,
+      "name": "I am Pikachu",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/16-pikachu.jpg",
+      "age": ["0", "+"],
+      "price": 18.99
+    },
+    {
+      "id": 7,
+      "name": "I am Mario Brox",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/17-mario-3.jpg",
+      "age": ["0", "+"],
+      "price": 17.0
+    },
+    {
+      "id": 8,
+      "name": "I am a simple Bunny",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "./products/18-bunny.jpg",
+      "age": ["0", "+"],
+      "price": 10.99
+    }
+  ]
+}
